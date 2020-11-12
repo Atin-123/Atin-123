@@ -9,6 +9,9 @@
 <a href="https://www.linkedin.com/in/akash-ghosal-b22448197/">
 <img align="left" alt="Atindra Kumar Pal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a-->
+<a href="https://www.facebook.com/atindra.pal.376/">
+<img align="left" alt="Atindra Kumar Pal | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a-->
 <br/>
 <br/>
 
@@ -20,4 +23,3 @@
 - 📫 How to reach me: atindra8016@gmail.com
 
 ![Atindras's Github Stats](https://github-readme-stats.vercel.app/api?username=Atin-123&show_icons=true&hide_border=true)
-

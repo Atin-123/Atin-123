@@ -5,8 +5,8 @@
 
 <!--a href="#">
 <img align="left" alt="Atindra Kumar Pal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="#">
+</a-->
+<a href="https://www.linkedin.com/in/atindra-kumar-pal-a05907212/">
 <img align="left" alt="Atindra Kumar Pal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a-->
 <a href="https://www.facebook.com/atindra.pal.376/">
@@ -18,7 +18,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently pursuing B. Tech in CS
-- 🌱 I’m currently learning Artificial Intelligence & Machine Learning.
+- 🌱 I’m currently learning Front-End Development.
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: atindra8016@gmail.com
 

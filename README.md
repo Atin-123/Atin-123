@@ -18,7 +18,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently pursuing B. Tech in CS
-- 🌱 I’m currently learning Front-End Development.
+- 🌱 I’m currently learning Java Full-Stack Development.
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: atindra8016@gmail.com
 
